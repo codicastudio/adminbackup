@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminbackup",
+    "name": "codica-studio/adminbackup",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminbackup",
+    "homepage": "https://github.com/codica-studio/adminbackup",
     "license": "MIT",
     "authors": [
         {
