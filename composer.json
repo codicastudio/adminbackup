@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminbackup",
+    "name": "codicastudio/backup-manager",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminbackup",
+    "homepage": "https://github.com/codicastudio/backup-manager",
     "license": "MIT",
     "authors": [
         {
@@ -15,9 +15,9 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "illuminate/support": "^8.0",
-        "laravel/nova": "^3.0",
+        
         "nesbot/carbon": "^2.31",
-        "spatie/laravel-backup": "^6.0"
+        "codicastudio/backup": "^1.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0",
@@ -47,6 +47,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
